@@ -1,0 +1,11 @@
+.country {
+    margin: 20px;
+    border: 5px solid rebeccapurple;
+    background-color: beige;
+    border-radius: 15px;
+    padding: 5px;
+}
+
+.country img {
+    width: 200px;
+}
